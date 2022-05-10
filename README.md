@@ -2,7 +2,7 @@
 
 To evaluate how filter-based and score-based recommendations can assist knowledge workers in reaching their objectives, a user study was conducted. This repository documents the setup and results of this user study.
 
-Three groups of participants were investigated. Each group was provided with an [fCM execution engine](https://github.com/bptlab/fCM-Engine/tree/master). The first group did not receive recommendations. For the second group, the engine was enriched with filter-based recommendation. The third group received score-based recommendations in their engine.
+Three groups of participants were investigated. Each group was provided with an enriched version of an [fCM execution engine](https://github.com/bptlab/fCM-Engine/tree/master). The first group did not receive recommendations. For the second group, the engine was enriched with filter-based recommendation. The third group received score-based recommendations in their engine.
 
 Each participant was provided with the process model, the execution engine and the objective.
 
