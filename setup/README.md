@@ -7,7 +7,9 @@ First, two groups of seven participants each were randomly selected. One group r
 This results in three groups of participants
 
 They have different levels of experience with fragment-based Case Mmanagement (fCM). In a self assessment, the participants evaluated their experience on a scale from one to five:
-Insert figure
+
+![photo_2022-05-10 09 37 39](https://user-images.githubusercontent.com/32839252/167660209-8e8f719e-a3bb-4186-a661-8c53a6f4dd6e.jpeg)
+
 
 ## Experiments
 
